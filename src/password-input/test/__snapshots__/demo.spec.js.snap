@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="van-password-input">
+      <ul class="van-password-input__security van-hairline--surround">
+        <li class=""><i style="visibility: visible;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: visible;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: visible;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: hidden;"></i>
+          <div class="van-password-input__cursor"></div>
+        </li>
+        <li class="van-hairline--left"><i style="visibility: hidden;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: hidden;"></i></li>
+      </ul>
+      <div class="van-password-input__info">密码为 6 位数字</div>
+    </div>
+    <div class="van-number-keyboard" name="van-slide-up">
+      <div class="van-number-keyboard__body">
+        <div class="van-number-keyboard__keys">
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">1</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">2</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">3</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">4</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">5</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">6</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">7</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">8</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">9</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key van-key--gray"></div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key">0</div>
+          </div>
+          <div class="van-key__wrapper">
+            <div role="button" tabindex="0" class="van-key van-key--gray van-key--delete">删除</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="van-password-input">
+      <ul class="van-password-input__security">
+        <li class=""><i style="visibility: visible;"></i></li>
+        <li class="" style="margin-left: 15px;"><i style="visibility: visible;"></i></li>
+        <li class="" style="margin-left: 15px;"><i style="visibility: visible;"></i></li>
+        <li class="" style="margin-left: 15px;"><i style="visibility: hidden;"></i></li>
+      </ul>
+    </div>
+  </div>
+  <div>
+    <div class="van-password-input">
+      <ul class="van-password-input__security van-hairline--surround">
+        <li class="">1</li>
+        <li class="van-hairline--left">2</li>
+        <li class="van-hairline--left">3</li>
+        <li class="van-hairline--left"></li>
+        <li class="van-hairline--left"></li>
+        <li class="van-hairline--left"></li>
+      </ul>
+    </div>
+  </div>
+  <div>
+    <div class="van-password-input">
+      <ul class="van-password-input__security van-hairline--surround">
+        <li class=""><i style="visibility: visible;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: visible;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: visible;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: hidden;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: hidden;"></i></li>
+        <li class="van-hairline--left"><i style="visibility: hidden;"></i></li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;
